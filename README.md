@@ -1,4 +1,3 @@
-# Segredo_dos_hospitais
-Atividade sobre Banco de Dados Relacionais - PROA
+# Segredo dos Hospitais
 
 <img src="bancoHospital.png">
